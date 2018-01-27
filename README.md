@@ -1,5 +1,5 @@
 # SchemeArt
-Art made from Python's Turtle graphics package and Scheme.
+Art made from Python's Turtle graphics package and Scheme.   Winner of CS61A Spring 2017's Scheme Recursive Art Contest.
 
 ## To run: 
 - Clone the repository
